@@ -8,6 +8,12 @@ A ideia central é explorar o grande volume de dados gerado pelas plataformas de
 
 O crescimento exponencial desse mercado, tanto no Brasil quanto globalmente, abre novas oportunidades para o desenvolvimento de soluções inovadoras utilizando aprendizado de máquina. O projeto será implementado utilizando linguagens e ferramentas apropriadas para ciência de dados e machine learning.
 
+## Disciplina
+- Aprendizagem de máquina
+
+## Professor
+- Bruno Zolotareff
+
 ## Integrantes
 - Felipe Felix
 - Lucas Mendonça
