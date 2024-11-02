@@ -1,0 +1,20 @@
+let jsonEmpate ={
+    'Country': 'Brazil',
+    'League': 'Serie A',
+    'Season': '2023',
+    'Date': '15/10/2023',
+    'Time': '16:00',
+    'Home': 'Corinthians',
+    'Away': 'Flamengo',
+    'HG': 2,       
+    'AG': 2,       
+    'PH': 2.80,    
+    'PD': 2.90,    
+    'PA': 3.00,    
+    'MaxH': 2.85,  
+    'MaxD': 2.95,  
+    'MaxA': 3.10,  
+    'AvgH': 2.82,  
+    'AvgD': 2.88,  
+    'AvgA': 3.05   
+}

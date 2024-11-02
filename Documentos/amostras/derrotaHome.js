@@ -1,0 +1,20 @@
+let jsonDerrota = {
+    'Country': 'Brazil',
+    'League': 'Serie A',
+    'Season': '2023',
+    'Date': '15/10/2023',
+    'Time': '16:00',
+    'Home': 'Corinthians',
+    'Away': 'Flamengo',
+    'HG': 2,
+    'AG': 18,
+    'PH': 3.80,
+    'PD': 3.50,
+    'PA': 2.10,
+    'MaxH': 3.90,
+    'MaxD': 3.60,
+    'MaxA': 2.20,
+    'AvgH': 3.85,
+    'AvgD': 3.45,
+    'AvgA': 2.05
+}
